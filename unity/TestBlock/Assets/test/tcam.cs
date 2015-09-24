@@ -5,7 +5,7 @@ public class tcam : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-	
+	// 有 ask me ，i ask who
 	}
 
     float t = 0;
